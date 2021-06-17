@@ -1,5 +1,5 @@
 # Personal-Projects
-Projects i have created using several technologies
+Projects I have created using several technologies
 
 Connect Four:
  A game played by two players. Simply have 4 consistent colors either horizontally, vertically or diagonally to win the game. 
