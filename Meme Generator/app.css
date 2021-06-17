@@ -1,0 +1,29 @@
+div{
+    text-align: center;
+    width: 400px;
+    height: 225px;
+}
+
+/*
+for the top text
+*/
+div >p:first-child{
+    margin-bottom: auto;
+    font-size: 25px;
+    font-family: 'Poppins', sans-serif;
+}
+
+/*
+for the bottom text
+*/
+div > p:last-child{
+    margin-top: auto;
+    font-size: 25px;
+    font-family: 'Poppins', sans-serif;
+}
+
+div img{
+    width: 16em;
+    height: 9em;
+    border-radius: 10px;
+}
