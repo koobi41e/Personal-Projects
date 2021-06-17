@@ -6,3 +6,5 @@ Connect Four:
 Meme Generator:
 
 Jeopardy Game:
+
+Hack or Snooze:
