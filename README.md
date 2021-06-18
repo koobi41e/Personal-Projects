@@ -15,3 +15,4 @@ Hack or Snooze:
 
 Meme Generator:
  By providing an image link and two Strings, a meme is created with the three inputs provided. 
+  Technology used: JavaScript, HTML, CSS
