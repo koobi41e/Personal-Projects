@@ -12,3 +12,6 @@ Jeopardy Game:
 Hack or Snooze:
   Built a functional clone of Hacker News based on the data available in their API. This site when deployed will have the same stories that someone can read on Hacker News. It    will allow users to create accounts and log in, save their favorite articles, and upload stories of their own! 
   Technology used: JQuery, JavaScript, HTML, CSS, APIs
+
+Meme Generator:
+ By providing an image link and two Strings, a meme is created with the three inputs provided. 
